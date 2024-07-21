@@ -1,0 +1,11 @@
+/* Styles de base pour votre application */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
